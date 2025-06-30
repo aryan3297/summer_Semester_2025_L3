@@ -1,7 +1,6 @@
-amity university
+AUB
 btech
 cse
+ECE
 btech cse aiml
-
-
 cafe ccd
