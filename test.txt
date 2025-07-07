@@ -4,3 +4,5 @@ cse
 ECE
 btech cse aiml
 cafe ccd
+hi 7 july 2025
+ece
